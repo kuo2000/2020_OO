@@ -56,7 +56,7 @@ digraph {
     no4->no5
 }
 ```
-
+![PERT圖](PERT圖.PNG "PERT圖")
 
 
 
