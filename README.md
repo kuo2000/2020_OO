@@ -78,5 +78,5 @@ digraph {
  * 可靠度:極高
 
 #### 功能分解圖 FDD:
-![FDD](FDD.PNG "FDD")
+![FDD](FDD.JPG "FDD")
 
