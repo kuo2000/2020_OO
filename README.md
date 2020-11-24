@@ -77,4 +77,6 @@ digraph {
  * 使用度:高
  * 可靠度:極高
 
+#### 功能分解圖 FDD:
+![FDD](FDD.PNG "FDD")
 
