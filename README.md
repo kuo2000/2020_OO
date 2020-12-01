@@ -93,3 +93,6 @@ digraph {
 
 #### 系統環境圖 DFD :
 ![DFD](DFD.png "DFD")
+
+#### DFD 0程序 :
+![DFD0](DFD0.png "DFD0")
