@@ -96,3 +96,6 @@ digraph {
 
 #### DFD 0程序 :
 ![DFD0](DFD0.png "DFD0")
+
+#### UML :
+![uml](uml.png "uml")
