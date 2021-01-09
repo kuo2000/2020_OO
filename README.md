@@ -4,10 +4,11 @@
 ## 班級:資管三甲
 #### 組長:C107118107郭弘逸
 #### 小組成員：C107118107郭弘逸 C107118118邱宏嘉 C107135126劉彥圻
+#### PPT:https://drive.google.com/file/d/1kCG6tHJhL9hYCCArZ6KC_YIEbmb0grkU/view?usp=sharing
 ```
-工作分配:  郭弘逸:主題討論、製作、
-              邱宏嘉:主題討論、報告
-              劉彥圻:主題討論、製作、報告
+工作分配表:C107118107郭弘逸 45%  github製作、甘特圖、PERT圖、(非)功能性需求、FDD、系統環境圖 DFD、DFD 0程序、循序圖、ERD
+          C107118118邱宏嘉 25%  UML、活動圖、分鏡圖
+	  C107135126劉彥圻 30%  需求分析、使用者案例圖、使用者案說明、
 ```
  ***
 
@@ -106,3 +107,8 @@ digraph {
 ![活動圖3](活動圖3.jpg "活動圖3")
 ![循序3](循序3.PNG "循序3")
 
+# 實體關係圖 ERD:
+![ERD](ERD.PNG "ERD")
+
+
+參考資料http://www.ais.nptu.edu.tw/bsacc/1021%20materials/bsaccRdbErdREA_20131108.pdf
